@@ -34,4 +34,8 @@ dependencies:
 dev_dependencies:
   mockito: 4.1.1
 
+dartdoc:
+  # Exclude this package from the hosted API docs.
+  nodoc: true
+
 # PUBSPEC CHECKSUM: 3e28
